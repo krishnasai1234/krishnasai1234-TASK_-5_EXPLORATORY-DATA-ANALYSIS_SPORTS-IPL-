@@ -1,0 +1,2 @@
+# krishnasai1234-TASK_-5_EXPLORATORY-DATA-ANALYSIS_SPORTS-IPL-
+Here I have created the EDA model of the IPL dataset ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian ● Dataset: https://bit.ly/34SRn3b Premier League’ ● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. ● Suggest teams or players a company should endorse for its products.
